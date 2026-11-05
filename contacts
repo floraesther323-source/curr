@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <h1>Contacts</h1>
+</head>
+<body bgcolor="sky blue">
+
+    <nav align="left">
+        <b><a href="hobbies">NEXT</a></b>
+        
+        <b><a href="personal details">BACK</a></b>
+    </nav>
+  <div class="about">
+        <p>
+          Name: <strong> Chebet Natasha</strong> <br />Address :<br /><strong
+            >
+            
+              Chebet Natasha,<br />p.o.box 203-2030,<br />Kisii,<br />Kenya</i
+            ></strong
+          ><br />
+          Email :<strong>chebetnatasha67@gmail.com</strong><br />Phone :
+          <strong>+254 705034815</strong>
+        </p>
+      </div>
+        <h2>Contact Us</h2>
+
+    <form action="#" method="post">
+
+        <!-- Name -->
+        <label for="name">Enter your Name:</label>
+        <br>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+
+        <!-- Email -->
+        <label for="email">E-mail address*:</label>
+        <br>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+
+        <!-- Subject -->
+        <label for="subject">Message Subject:</label>
+        <br>
+        <input type="text" id="subject" name="subject">
+        <br><br>
+
+        <!-- Message -->
+        <label for="message">Enter your Message*:</label>
+        <br>
+        <textarea id="message" name="message"
+                  rows="12" cols="50" required></textarea>
+        <br><br>
+
+        <!-- Checkbox -->
+        <input type="checkbox" id="copy" name="copy">
+        <label for="copy">
+            E-mail a copy of this message to your own address.
+        </label>
+
+        <br><br>
+
+        <!-- Send Button -->
+        <input type="submit" value="Send">
+
+    </form>
+    <footer style="background-color: green; text-align: center;">&copy Natasha</footer>
+</body>
+</html>

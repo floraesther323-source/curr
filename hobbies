@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title <strong>Hobbies</strong></title>
+</head>
+<body bgcolor="pink">
+    <nav>
+<a href="hobbies"> NEXT</a>
+    
+        <b><a href="contacts">BACK</a></b>
+        
+    </nav>
+    <div class="hobbies">
+       <h1>My Hobbies</h1>
+    
+        <ol type = "i">
+            <li> Main hobbies
+            <ol>
+                <li>Reading</li>
+                <li>Watching movies</li>
+                <li>Swimming</li>
+
+              </ol>
+            </li>
+            
+                <li>Other hobbies</li>
+                <ul>
+                    <li>Web designing</li>
+                    <li>Graphic design</li>
+                    <li>Adventure</li>
+                    </ul>
+                </li>
+                </ol>
+                 
+                 
+            </li>
+
+
+
+
+
+
+
+    </div> 
+    <footer style="background-color: green; text-align: center;">&copy Natasha</footer> 
+      
+                    
+      </body>
+</html>

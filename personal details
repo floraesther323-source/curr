@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <h1>Personal Details</h1>
+</head>
+<body bgcolor=" lightgreen">
+
+  <nav>
+    <b><a href="home">BACK</a></b>
+    <b><a href="contacts">NEXT</a></b>
+    
+  </nav>
+    <p>
+          Name: <strong> Chebet Natasha</strong> <br />Address :<br /><strong
+            ><i
+              style="
+                font-family:
+                  &quot;Gill Sans&quot;, &quot;Gill Sans MT&quot;, Calibri,
+                  &quot;Trebuchet MS&quot;, sans-serif;
+              "
+            >
+              Chebet Natasha,<br />p.o.box 234-30200,<br />Kisii,<br />Kenya</i
+            ></strong
+          ><br />
+          Email :<strong><i>chebetnatasha67@gmail.com</i></strong><br />Phone :
+          <strong>+254 7142 72574</strong><br> Instagram :<a href="https://www.instagram.com/n_.atty49/?__pwa=1">natasha</a><br>
+           : <a href=
+        </p>
+      </div>
+
+      <p>
+        <abbr title="Date Of Birth">D.O.B</abbr> : <strong>14/04/2008</strong
+        ><br />sex :<strong>Female</strong><br />Nationality :<strong>
+          Kenyan</strong
+        ><br />Languages : <strong>English, Kiswahili</strong>
+      </p>
+
+     
+</body>
+</html>
